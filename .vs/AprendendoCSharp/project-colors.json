@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d35145d0-9f17-4374-b88c-1c8e124b54ae": {
+      "ProjectGuid": "d35145d0-9f17-4374-b88c-1c8e124b54ae",
+      "DisplayName": "1-PrimeiroProjeto",
+      "ColorIndex": 0
+    },
+    "d96486a1-c3c4-4de7-9ca5-e3d6fa0ce89d": {
+      "ProjectGuid": "d96486a1-c3c4-4de7-9ca5-e3d6fa0ce89d",
+      "DisplayName": "2-CriandoVariaveis",
+      "ColorIndex": 1
+    },
+    "0e0be815-d8b1-4a36-b2b2-5f64e01fd4b0": {
+      "ProjectGuid": "0e0be815-d8b1-4a36-b2b2-5f64e01fd4b0",
+      "DisplayName": "6-AtribuicoesDeVariaveis",
+      "ColorIndex": 2
+    },
+    "c3df42e5-eb81-4781-aec7-7297487d754f": {
+      "ProjectGuid": "c3df42e5-eb81-4781-aec7-7297487d754f",
+      "DisplayName": "3-CriandoVariaveisPontoFlutuante",
+      "ColorIndex": 3
+    },
+    "d022fbc4-1758-43ee-8d51-34e75d4a8cb3": {
+      "ProjectGuid": "d022fbc4-1758-43ee-8d51-34e75d4a8cb3",
+      "DisplayName": "4-ConversoresEOutrosTiposNumericos",
+      "ColorIndex": 4
+    },
+    "75f13e63-a30a-4a19-b6a1-a0206f163bc7": {
+      "ProjectGuid": "75f13e63-a30a-4a19-b6a1-a0206f163bc7",
+      "DisplayName": "5-CaracteresETextos",
+      "ColorIndex": 5
+    },
+    "d9f97186-11bc-456d-9edb-21f0fbcdbc21": {
+      "ProjectGuid": "d9f97186-11bc-456d-9edb-21f0fbcdbc21",
+      "DisplayName": "7-Condicionais",
+      "ColorIndex": 6
+    },
+    "dce49cb4-0410-483a-9c59-287cd495b38d": {
+      "ProjectGuid": "dce49cb4-0410-483a-9c59-287cd495b38d",
+      "DisplayName": "8-Condicionais2",
+      "ColorIndex": 7
+    },
+    "12b34344-f8e4-4fcd-bb7c-560dd000cb04": {
+      "ProjectGuid": "12b34344-f8e4-4fcd-bb7c-560dd000cb04",
+      "DisplayName": "9-Escopo",
+      "ColorIndex": 8
+    },
+    "0e9a7e47-c229-4f44-85e4-6a0f5b8b1fbf": {
+      "ProjectGuid": "0e9a7e47-c229-4f44-85e4-6a0f5b8b1fbf",
+      "DisplayName": "P10_CalculaPoupanca",
+      "ColorIndex": 9
+    },
+    "bc5830bf-9c8f-4358-8ea0-f8ea9202f578": {
+      "ProjectGuid": "bc5830bf-9c8f-4358-8ea0-f8ea9202f578",
+      "DisplayName": "P11-CalculaPoupanca2",
+      "ColorIndex": 10
+    },
+    "de51ef19-3b5e-469e-87d0-5315e558ddcb": {
+      "ProjectGuid": "de51ef19-3b5e-469e-87d0-5315e558ddcb",
+      "DisplayName": "P12-CalculaInvestimentoLongoPrazo",
+      "ColorIndex": 11
+    },
+    "e30b0580-c518-44c1-9ff3-49d20b4685f4": {
+      "ProjectGuid": "e30b0580-c518-44c1-9ff3-49d20b4685f4",
+      "DisplayName": "P13-ForEncadeado",
+      "ColorIndex": 12
+    },
+    "94747517-b060-4f8c-a09d-28ee917a20b2": {
+      "ProjectGuid": "94747517-b060-4f8c-a09d-28ee917a20b2",
+      "DisplayName": "1-OlaMundo",
+      "ColorIndex": 13
+    },
+    "e237fa18-5ec9-4f26-bc93-cb50ff9e45ce": {
+      "ProjectGuid": "e237fa18-5ec9-4f26-bc93-cb50ff9e45ce",
+      "DisplayName": "2 -CriandoVariaveis",
+      "ColorIndex": 14
+    },
+    "a900d9d9-6565-43c2-ba0e-733e139a6f23": {
+      "ProjectGuid": "a900d9d9-6565-43c2-ba0e-733e139a6f23",
+      "DisplayName": "3-CriandoVariaveisPonroFluante",
+      "ColorIndex": 15
+    },
+    "a8154015-ba8f-4a41-8c2c-4b399360f2d7": {
+      "ProjectGuid": "a8154015-ba8f-4a41-8c2c-4b399360f2d7",
+      "DisplayName": "4-ConversoesEOutrosTipos",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "e6d8c6ec-55dc-4bac-9499-6bb62770c4ef": {
+      "ProjectGuid": "e6d8c6ec-55dc-4bac-9499-6bb62770c4ef",
+      "DisplayName": "5-CaracteresETextos",
+      "ColorIndex": 1
+    },
+    "7f8a6e4b-fed1-470e-b5ba-8ce6faf376cb": {
+      "ProjectGuid": "7f8a6e4b-fed1-470e-b5ba-8ce6faf376cb",
+      "DisplayName": "6-AtriuicoesDeVariaveis",
+      "ColorIndex": 2
+    },
+    "3ac3dc71-1a7f-4a84-9115-905dd7c74f66": {
+      "ProjectGuid": "3ac3dc71-1a7f-4a84-9115-905dd7c74f66",
+      "DisplayName": "7-Condicionais",
+      "ColorIndex": 3
+    },
+    "a1b95654-3e5b-4b81-8765-48c7d2a69318": {
+      "ProjectGuid": "a1b95654-3e5b-4b81-8765-48c7d2a69318",
+      "DisplayName": "8-Condicionais2",
+      "ColorIndex": 4
+    },
+    "0ae4aa49-ce72-4cdd-b662-19a0f149bacf": {
+      "ProjectGuid": "0ae4aa49-ce72-4cdd-b662-19a0f149bacf",
+      "DisplayName": "9-Escopo",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,15 @@
+C:\Users\diego\source\repos\AprendendoCSharp\6-AtriuicoesDeVariaveis\obj\Debug\net6.0\6-AtriuicoesDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\AprendendoCSharp\6-AtriuicoesDeVariaveis\obj\Debug\net6.0\6-AtriuicoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\AprendendoCSharp\6-AtriuicoesDeVariaveis\obj\Debug\net6.0\6-AtriuicoesDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\AprendendoCSharp\6-AtriuicoesDeVariaveis\obj\Debug\net6.0\6-AtriuicoesDeVariaveis.AssemblyInfo.cs
+C:\Users\diego\source\repos\AprendendoCSharp\6-AtriuicoesDeVariaveis\obj\Debug\net6.0\6-AtriuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\AprendendoCSharp\6-AtriuicoesDeVariaveis\bin\Debug\net6.0\6-AtriuicoesDeVariaveis.exe
+C:\Users\diego\source\repos\AprendendoCSharp\6-AtriuicoesDeVariaveis\bin\Debug\net6.0\6-AtriuicoesDeVariaveis.deps.json
+C:\Users\diego\source\repos\AprendendoCSharp\6-AtriuicoesDeVariaveis\bin\Debug\net6.0\6-AtriuicoesDeVariaveis.runtimeconfig.json
+C:\Users\diego\source\repos\AprendendoCSharp\6-AtriuicoesDeVariaveis\bin\Debug\net6.0\6-AtriuicoesDeVariaveis.dll
+C:\Users\diego\source\repos\AprendendoCSharp\6-AtriuicoesDeVariaveis\bin\Debug\net6.0\ref\6-AtriuicoesDeVariaveis.dll
+C:\Users\diego\source\repos\AprendendoCSharp\6-AtriuicoesDeVariaveis\bin\Debug\net6.0\6-AtriuicoesDeVariaveis.pdb
+C:\Users\diego\source\repos\AprendendoCSharp\6-AtriuicoesDeVariaveis\obj\Debug\net6.0\6-AtriuicoesDeVariaveis.dll
+C:\Users\diego\source\repos\AprendendoCSharp\6-AtriuicoesDeVariaveis\obj\Debug\net6.0\ref\6-AtriuicoesDeVariaveis.dll
+C:\Users\diego\source\repos\AprendendoCSharp\6-AtriuicoesDeVariaveis\obj\Debug\net6.0\6-AtriuicoesDeVariaveis.pdb
+C:\Users\diego\source\repos\AprendendoCSharp\6-AtriuicoesDeVariaveis\obj\Debug\net6.0\6-AtriuicoesDeVariaveis.genruntimeconfig.cache

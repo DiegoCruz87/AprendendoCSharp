@@ -1,0 +1,15 @@
+C:\Users\diego\source\repos\AprendendoCSharp\3-CriandoVariaveisPonroFluante\bin\Debug\net6.0\3-CriandoVariaveisPonroFluante.exe
+C:\Users\diego\source\repos\AprendendoCSharp\3-CriandoVariaveisPonroFluante\bin\Debug\net6.0\3-CriandoVariaveisPonroFluante.deps.json
+C:\Users\diego\source\repos\AprendendoCSharp\3-CriandoVariaveisPonroFluante\bin\Debug\net6.0\3-CriandoVariaveisPonroFluante.runtimeconfig.json
+C:\Users\diego\source\repos\AprendendoCSharp\3-CriandoVariaveisPonroFluante\bin\Debug\net6.0\3-CriandoVariaveisPonroFluante.dll
+C:\Users\diego\source\repos\AprendendoCSharp\3-CriandoVariaveisPonroFluante\bin\Debug\net6.0\ref\3-CriandoVariaveisPonroFluante.dll
+C:\Users\diego\source\repos\AprendendoCSharp\3-CriandoVariaveisPonroFluante\bin\Debug\net6.0\3-CriandoVariaveisPonroFluante.pdb
+C:\Users\diego\source\repos\AprendendoCSharp\3-CriandoVariaveisPonroFluante\obj\Debug\net6.0\3-CriandoVariaveisPonroFluante.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\AprendendoCSharp\3-CriandoVariaveisPonroFluante\obj\Debug\net6.0\3-CriandoVariaveisPonroFluante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\AprendendoCSharp\3-CriandoVariaveisPonroFluante\obj\Debug\net6.0\3-CriandoVariaveisPonroFluante.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\AprendendoCSharp\3-CriandoVariaveisPonroFluante\obj\Debug\net6.0\3-CriandoVariaveisPonroFluante.AssemblyInfo.cs
+C:\Users\diego\source\repos\AprendendoCSharp\3-CriandoVariaveisPonroFluante\obj\Debug\net6.0\3-CriandoVariaveisPonroFluante.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\AprendendoCSharp\3-CriandoVariaveisPonroFluante\obj\Debug\net6.0\3-CriandoVariaveisPonroFluante.dll
+C:\Users\diego\source\repos\AprendendoCSharp\3-CriandoVariaveisPonroFluante\obj\Debug\net6.0\ref\3-CriandoVariaveisPonroFluante.dll
+C:\Users\diego\source\repos\AprendendoCSharp\3-CriandoVariaveisPonroFluante\obj\Debug\net6.0\3-CriandoVariaveisPonroFluante.pdb
+C:\Users\diego\source\repos\AprendendoCSharp\3-CriandoVariaveisPonroFluante\obj\Debug\net6.0\3-CriandoVariaveisPonroFluante.genruntimeconfig.cache
